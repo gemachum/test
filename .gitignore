@@ -3,3 +3,12 @@ node_modules
 *.pdf
 node_modules/
 .vscode/
+AppData/
+*.log
+*.txt
+.cache/
+.config/
+.docker/
+.ssh/
+*.pdf
+Documents/
